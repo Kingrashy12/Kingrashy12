@@ -4,8 +4,8 @@ FullStack Developer.
 | GitHub Stats | Top Languages |
 | --- | --- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingrashy12&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingrashy12&layout=compact&langs_count=6&theme=radical) |
-| Streak Stats |  |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=Kingrashy12&theme=radical) |  |
+<!--| Streak Stats |  |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=Kingrashy12&theme=radical) |  |-->
 
 ### Skills
 
