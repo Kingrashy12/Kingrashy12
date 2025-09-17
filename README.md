@@ -6,13 +6,13 @@
 
 ---
 
-## 📊 GitHub Overview  
+<!-- ## 📊 GitHub Overview  
 
-| Stats | Languages |
-| --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingrashy12&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingrashy12&layout=compact&langs_count=6&theme=radical) |
+| Languages |
+| --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingrashy12&layout=compact&langs_count=6&theme=radical) | 
 
----
+--- -->
 
 ## 🛠 Tech Stack  
 
@@ -27,4 +27,5 @@
 ## 🌍 Connect  
 
 [GitHub](https://github.com/Kingrashy12) · [Twitter](https://www.twitter.com/Kingrashy12) · [LinkedIn](https://www.linkedin.com/in/rapheal-chizitere-46581a256/)  
+
 
