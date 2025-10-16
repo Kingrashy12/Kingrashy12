@@ -18,7 +18,7 @@
 
 - **Frontend:** React, Next.js, TailwindCSS  
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB  
-- **State Management:** Redux  
+- **State Management:** Redux, Zustand  
 - **Languages:** JavaScript, TypeScript, HTML, CSS  
 - **Currently Exploring:** Zig  
 
@@ -27,5 +27,6 @@
 ## 🌍 Connect  
 
 [GitHub](https://github.com/Kingrashy12) · [Twitter](https://www.twitter.com/Kingrashy12) · [LinkedIn](https://www.linkedin.com/in/rapheal-chizitere-46581a256/)  
+
 
 
