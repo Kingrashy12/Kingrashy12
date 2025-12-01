@@ -1,3 +1,4 @@
+<!--
 # 👋 Hi, I'm Rapheal Chizitere
 
 **Full-Stack Developer** passionate about building scalable applications and exploring systems programming.  
@@ -14,6 +15,7 @@
 
 --- -->
 
+<!--
 ## 🛠 Tech Stack  
 
 - **Frontend:** React, Next.js, TailwindCSS  
@@ -27,6 +29,8 @@
 ## 🌍 Connect  
 
 [GitHub](https://github.com/Kingrashy12) · [Twitter](https://www.twitter.com/Kingrashy12) · [LinkedIn](https://www.linkedin.com/in/rapheal-chizitere-46581a256/)  
+--- -->
+
 
 
 
